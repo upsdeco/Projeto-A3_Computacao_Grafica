@@ -1,3 +1,6 @@
+//Variavel para iniciar o nivel 2
+private int nivel;
+
 //Variaveis para a criação do poligono
   private float vpoligonoX1 = 10f;
     private float vpoligonoY1 = 40f;
